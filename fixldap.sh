@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 pass=Pal0Alt0
 ldap_user=lab-user-id
